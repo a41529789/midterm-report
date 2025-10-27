@@ -1,4 +1,5 @@
-使用操作
+使用操作:
+
 <img width="904" height="387" alt="螢幕擷取畫面 2025-10-27 234143" src="https://github.com/user-attachments/assets/30797ddb-ab26-4010-94a4-4a5e9fbdef5f" />
 
 <img width="836" height="375" alt="螢幕擷取畫面 2025-10-27 234151" src="https://github.com/user-attachments/assets/1454d7f8-505b-4828-808d-53df99d579ce" />
