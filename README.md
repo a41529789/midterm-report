@@ -14,6 +14,12 @@
 <img width="937" height="234" alt="螢幕擷取畫面 2025-10-28 000209" src="https://github.com/user-attachments/assets/3d06bbe1-057f-414e-abf0-665d732b4a3a" />
 
 **問題解決後，程式碼便順利完成。**
+最終程式碼:
+<img width="900" height="662" alt="螢幕擷取畫面 2025-10-28 002655" src="https://github.com/user-attachments/assets/16fd5e36-080e-47d5-a563-c9e652bb3174" />
+<img width="777" height="711" alt="螢幕擷取畫面 2025-10-28 002740" src="https://github.com/user-attachments/assets/cdcccd64-1e55-4499-ba56-6400fc768178" />
+<img width="734" height="741" alt="螢幕擷取畫面 2025-10-28 002749" src="https://github.com/user-attachments/assets/7b6bd2b1-8690-48ce-b823-340aab8318ee" />
+<img width="755" height="693" alt="螢幕擷取畫面 2025-10-28 002806" src="https://github.com/user-attachments/assets/b0200643-fa28-4230-8cfa-f92650068e5c" />
+<img width="757" height="685" alt="螢幕擷取畫面 2025-10-28 002820" src="https://github.com/user-attachments/assets/d29de829-488b-4904-985e-8c89cf5ccc13" />
 
 
 
