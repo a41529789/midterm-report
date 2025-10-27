@@ -1,7 +1,20 @@
 # 軟體工程報告:
 我們使用chatgpt製作一個可以批量在圖片上產生水印的python程式
+
 首先我們讓chatgpt直接產生程式碼
+
 <img width="947" height="480" alt="螢幕擷取畫面 2025-10-27 235841" src="https://github.com/user-attachments/assets/d6ff670a-5acd-4e1b-8400-ae377082bd04" />
+
+然後遇到套件無法安裝的問題
+
+<img width="1012" height="461" alt="螢幕擷取畫面 2025-10-28 000233" src="https://github.com/user-attachments/assets/e1b91674-26ee-4ad0-9503-0780bfc559a9" />
+
+之後詢問chatgpt，直接改進程式碼能自動檢查並安裝 Pillow 的版本，免去每次手動安裝。
+
+<img width="937" height="234" alt="螢幕擷取畫面 2025-10-28 000209" src="https://github.com/user-attachments/assets/3d06bbe1-057f-414e-abf0-665d732b4a3a" />
+
+**問題解決後，程式碼便順利完成。**
+
 
 # 使用操作:
 
@@ -27,3 +40,7 @@
 圖片預覽
 
 <img width="1920" height="1080" alt="螢幕擷取畫面 2025-10-27 232037" src="https://github.com/user-attachments/assets/d4460aa9-3dfa-4525-9c69-0c79f463b10f" />
+
+# 結語:
+
+本次專案展示了在 不撰寫任何程式碼的情況下，利用 ChatGPT 從零生成一個完整的批量水印工具的可行性與效率。透過人工智慧的引導，我們能快速建立可操作的圖形介面，實現圖片批量處理、水印添加及各種自訂化功能，而無需深入程式語言的細節。這不僅降低了開發門檻，也展示了 AI 在輔助軟體開發中的潛力與價值，為未來快速原型設計與自動化工具生成提供了新的思路。
