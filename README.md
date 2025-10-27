@@ -1,15 +1,15 @@
-# 軟體工程報告:
-我們使用chatgpt製作一個可以批量在圖片上產生水印的python程式
+# 軟體工程報告—不寫一行程式碼，利用 ChatGPT 從 0 產生一個批量浮水印工具
+**我們使用chatgpt製作一個可以批量在圖片上產生水印的python程式**
 
-首先我們讓chatgpt直接產生程式碼
+**首先我們讓chatgpt直接產生程式碼**
 
 <img width="947" height="480" alt="螢幕擷取畫面 2025-10-27 235841" src="https://github.com/user-attachments/assets/d6ff670a-5acd-4e1b-8400-ae377082bd04" />
 
-然後遇到套件無法安裝的問題
+**然後遇到套件無法安裝的問題**
 
 <img width="1012" height="461" alt="螢幕擷取畫面 2025-10-28 000233" src="https://github.com/user-attachments/assets/e1b91674-26ee-4ad0-9503-0780bfc559a9" />
 
-之後詢問chatgpt，直接改進程式碼能自動檢查並安裝 Pillow 的版本，免去每次手動安裝。
+**之後詢問chatgpt，直接改進程式碼能自動檢查並安裝 Pillow 的版本，免去每次手動安裝。**
 
 <img width="937" height="234" alt="螢幕擷取畫面 2025-10-28 000209" src="https://github.com/user-attachments/assets/3d06bbe1-057f-414e-abf0-665d732b4a3a" />
 
@@ -36,15 +36,15 @@
 
 # 成果:
 
-使用前
+**使用前**
 
 <img width="1920" height="1080" alt="螢幕擷取畫面 2025-10-27 231936" src="https://github.com/user-attachments/assets/399b591d-8056-4a21-8573-44a0d565c014" />
 
-使用後
+**使用後**
 
 <img width="1920" height="1080" alt="螢幕擷取畫面 2025-10-27 232026" src="https://github.com/user-attachments/assets/1d30c854-7879-4975-a838-505d3d22193e" />
 
-圖片預覽
+**圖片預覽**
 
 <img width="1920" height="1080" alt="螢幕擷取畫面 2025-10-27 232037" src="https://github.com/user-attachments/assets/d4460aa9-3dfa-4525-9c69-0c79f463b10f" />
 
