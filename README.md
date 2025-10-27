@@ -1,4 +1,9 @@
-使用操作:
+# 軟體工程報告:
+我們使用chatgpt製作一個可以批量在圖片上產生水印的python程式
+首先我們讓chatgpt直接產生程式碼
+<img width="947" height="480" alt="螢幕擷取畫面 2025-10-27 235841" src="https://github.com/user-attachments/assets/d6ff670a-5acd-4e1b-8400-ae377082bd04" />
+
+# 使用操作:
 
 <img width="904" height="387" alt="螢幕擷取畫面 2025-10-27 234143" src="https://github.com/user-attachments/assets/30797ddb-ab26-4010-94a4-4a5e9fbdef5f" />
 
@@ -9,7 +14,7 @@
 <img width="920" height="470" alt="螢幕擷取畫面 2025-10-27 234208" src="https://github.com/user-attachments/assets/b68a1cc5-fb5c-4639-b7b2-e560626958c5" />
 
 
-成果:
+# 成果:
 
 使用前
 
