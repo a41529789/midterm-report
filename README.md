@@ -14,6 +14,7 @@
 <img width="937" height="234" alt="螢幕擷取畫面 2025-10-28 000209" src="https://github.com/user-attachments/assets/3d06bbe1-057f-414e-abf0-665d732b4a3a" />
 
 **問題解決後，程式碼便順利完成。**
+最終程式碼[Uploading import os.py…]()
 
 
 # 使用操作:
